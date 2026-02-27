@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Dendy")(type "KiCad")(uri "${KIPRJMOD}/Dendy.pretty")(options "")(descr ""))
+)
