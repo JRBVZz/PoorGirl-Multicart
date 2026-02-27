@@ -7,6 +7,8 @@
 * CHR RAM: max 256 KiB
 * PRG RAM: 32 KiB, FRAM или SRAM с батарейкой
 
+Проект создан в [**KiCad 9**](https://www.kicad.org/).
+
 ### Сборка
 
 #### BoM и Schematic
